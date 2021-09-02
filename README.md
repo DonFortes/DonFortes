@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Pavel Nosov
 
 - 🔭 I’m currently serching for interesting projects
-- 🌱 I’m currently reading Python Tricks by Den Bader
+- 🌱 I'm currently reading Python Tricks by Dan Bader
 - 📝 All of my projects are available [here](https://github.com/DonFortes?tab=repositories)
 
 <!--
