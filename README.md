@@ -3,7 +3,7 @@
 - 🔭 I’m currently serching for interesting projects
 - 🌱 I'm currently reading Python Tricks by Dan Bader
 - 📝 All of my projects are available [here](https://github.com/DonFortes?tab=repositories)
-
+- 📫 You can reach me in telegram: @nosov_develop
 <!--
 **DonFortes/DonFortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
