@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently serching for interesting projects
 - 🌱 I’m currently reading Python Tricks by Den Bader
-- I regularly write articles [here](https://github.com/DonFortes?tab=repositories)
+- 📝 All of my projects are available [here](https://github.com/DonFortes?tab=repositories)
 
 <!--
 **DonFortes/DonFortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
