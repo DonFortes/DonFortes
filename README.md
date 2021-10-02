@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Pavel Nosov
 
+- 🔭 I’m currently working on parser for my own business
 - 🔭 I’m currently searching for interesting projects
 - 🌱 I'm currently reading Python Tricks by Dan Bader
 - 📝 All of my projects are available [here](https://github.com/DonFortes?tab=repositories)
