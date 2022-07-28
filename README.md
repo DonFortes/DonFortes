@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Pavel Nosov
 
-- 🔭 I’m currently working on parser for my own business
-- 🔭 I’m currently searching for interesting projects
-- 🌱 I'm currently reading Python Tricks by Dan Bader
-- 📝 All of my projects are available [here](https://github.com/DonFortes?tab=repositories)
+- 🔭 I’m currently working in KiteGroup GitLab Account
+- 📝 All of my own projects are available [here](https://github.com/DonFortes?tab=repositories)
 - 📫 You can reach me in telegram: @nosov_develop
 
 <h3 align="left">Languages and Tools:</h3>
