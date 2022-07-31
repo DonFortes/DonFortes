@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pavel Nosov
 
-- 🔭 I’m currently working in KiteGroup GitLab Account
+- 🔭 I’m currently working on KiteGroup projects at GitLab Account
 - 📝 All of my own projects are available [here](https://github.com/DonFortes?tab=repositories)
 - 📫 You can reach me in telegram: @nosov_develop
 
